@@ -1,4 +1,4 @@
-# Python_Volunteer_Teaching
+# Python_for_Beginners
 Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with a Python focus, aiding in the technical growth of underprivileged students. This repository offers a collection of python-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology.
 
 ## Team Members 

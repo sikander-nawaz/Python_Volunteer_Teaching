@@ -16,3 +16,10 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with a Python f
   * Revision
   * Brifely explained how source code convert into object code?
   * What is Variables and Data types?
+
+ ### Lecture 3
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/679732697568040/)
+  * print()
+  * Escape Seaquence Words 
+  * Type Casting
+  * type()

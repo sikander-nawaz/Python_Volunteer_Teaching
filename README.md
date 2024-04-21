@@ -3,7 +3,7 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with a Python f
 
 ## Team Members 
 - **[Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/)**
-- **[Asad ur Rehman]()**
+- **[Asad ur Rehman](https://www.linkedin.com/in/asadurrahman1/)**
 
 ### Lecture 1
 - **Video Link:** [30_mints_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=26001124209474858)

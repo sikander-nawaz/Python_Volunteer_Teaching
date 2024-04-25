@@ -41,7 +41,7 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with experience
      * Comparison Operators
      * Logical Operators
 
-### Lecture 6 <i>(Sikander Nawaz)</i>
+### Lecture 6 <i>(Sikander Nawaz, Sir Adeel)</i>
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/398426393102928/)
   * Conditional Statements
      * if-else

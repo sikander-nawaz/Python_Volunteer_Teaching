@@ -48,3 +48,6 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with experience
      * if-else-if
      * Nested if
 
+### Lecture 7 <i>(Sikander Nawaz)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1479249049661395)
+  * Assignment Discussion

@@ -1,5 +1,5 @@
 # Python_for_Beginners
-Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with experienced individuals focusing on Python, aiding in the technical growth of underprivileged students. This repository offers a collection of python-related videos and materials.
+Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where students can learn and polish their skills (coding, presentation etc) with experienced individuals. This repository offers a collection of python-related videos and materials.
 
 [Google Colab Sheet](https://colab.research.google.com/drive/1MZQSbFPSa0z5cddZoeFAYBf1SvvAtXcD?usp=sharing)
 
@@ -51,3 +51,11 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) with experience
 ### Lecture 7 <i>(Sikander Nawaz)</i>
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1479249049661395)
   * Assignment Discussion
+ 
+### Lecture 8 <i>(Sikander Nawaz, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/972583270741978)
+  * Loops
+    * while loop
+    * for loop
+    * for in loop
+    * for of loop

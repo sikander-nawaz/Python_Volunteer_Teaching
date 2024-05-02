@@ -57,5 +57,10 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
   * Loops
     * while loop
     * for loop
-    * for in loop
-    * for of loop
+      * for in loop
+      * for of loop
+
+### Lecture 9 <i>(Sir Adeel, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/watch/live/?ref=search&v=1672682236805438)
+  * Rivision
+  * continue and break

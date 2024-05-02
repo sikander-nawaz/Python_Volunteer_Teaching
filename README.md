@@ -34,7 +34,7 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
   * Operators
      * Arithmetic Operators
 
-### Lecture 5 <i>(Sikander Nawaz, Sir Adeel)</i>
+### Lecture 5 <i>(Sikander Nawaz)</i>
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1106353910444433/)
   * Operators
      * Assignment Operators

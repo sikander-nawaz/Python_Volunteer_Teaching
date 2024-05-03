@@ -47,6 +47,7 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
      * if-else
      * if-else-if
      * Nested if
+  * Short Hand Statements
 
 ### Lecture 7 <i>(Sikander Nawaz)</i>
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1479249049661395)

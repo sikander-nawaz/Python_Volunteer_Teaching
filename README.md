@@ -65,3 +65,13 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/watch/live/?ref=search&v=1672682236805438)
   * Rivision
   * continue and break
+
+### Lecture 10 <i>(Sikander Nawaz, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/833295672163520)
+  * Srting
+    * Membership operator in String
+    * Concatenation in String
+    * Methods of String
+      * Calculate length of string
+      * Find character at specific index
+      * How to get substring using slicing method

@@ -7,4 +7,18 @@ Methods/Helper Function of String. (a = "hello world")
      1. length of a string                            -> len()
      2. Indexing                                      -> a[0]
      3. Slicing                                       -> a[1:4]
+<<<<<<< HEAD
     
+=======
+     4. Upper Case                                    -> upper()
+     5. Lower Case                                    -> lower()
+     6. Capitalize Case                               -> capitalize()
+     7. Title Case                                    -> title()
+     8. Remove Extra Spaces                           -> strip(), lstrip(), rstrip()
+     9. Replace                                       -> replace()
+    10. Search                                        -> find()
+    11. Check starting and ending                     -> startswith(), endswith()
+    12. Check:digits, alphabetic, or alphanumeric     -> isdigit(), isalpha(), isalnum()
+    13. Convert into array/list                       -> split()
+    14. Covert list to string                         -> join()
+>>>>>>> e27c280aee732e8ec1a9ee77f5e2f3fb991987e4

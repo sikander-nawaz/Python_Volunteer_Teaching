@@ -8,23 +8,23 @@
 # # # # # print(a, c) """
 
 
-# # # # # # Escape Seaquence Words 
+# # # # # # Escape Sequence Words 
 
-# # # # # # This is a list of proucts:
+# # # # # # This is a list of products:
 # # # # # # Mobiles
 # # # # # # Laptops
 
 # # # # # # Use of \n (for break line or new line)
-# # # # # print("This is a list of proucts:\n Mobiles \nLaptops ")
+# # # # # print("This is a list of proucts:\n Mobiles \n Laptops ")
 
 # # # # # # Use of \t (for extra space like 4)
 # # # # # # word1    word2
 # # # # # print("word1\tword2")
 
-# # # # # # Use of \ (for uniqe words)
+# # # # # # Use of \ (for unique words)
 # # # # # # omege code u03A9
 
-# # # # # # Befor \
+# # # # # # Before \
 # # # # # print("u03A9")
 
 # # # # # # After \
@@ -34,10 +34,10 @@
 # # # # print("\u03A9")
 # # # # print("\u03A9") """
 
-# # # # print("Quid said: \"Work, work and work\"")
+# # # # print("Quaid said: \"Work, work and work\"")
 
 
-# # # a = 10    #interger
+# # # a = 10    #integer
 # # # b = "Hello"
 
 # # # print(b)

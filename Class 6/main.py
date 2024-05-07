@@ -2,9 +2,9 @@
 # # # b = 4
 
 # # # if a > b:
-# # #      print("A is grather then B")
+# # #      print("A is greater then B")
 # # # else:
-# # #      print("B is grather then A")
+# # #      print("B is greater then A")
 
 # # age = int(input("Enter Your Age: "))
 

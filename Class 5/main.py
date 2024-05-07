@@ -48,4 +48,4 @@
 a = True
 b = False
 
-print(a NOR b)
+#print(a NOR b) # Python does not have a built-in logical NOR (Not OR) operator

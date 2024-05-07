@@ -20,7 +20,7 @@
 # # Exponential      --->    “**”
 # c = 4
 # d = 2
-# print("The power two variables is: ", c**d)
+# print("The power of two variables is: ", c**d)
 
 # # Floor Division   --->    “//”
 # print("The FD between two variables is: ", a//b)

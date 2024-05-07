@@ -72,6 +72,24 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * Membership operator in String
     * Concatenation in String
     * Methods of String
-      * Calculate length of string
-      * Find character at specific index
-      * How to get substring using slicing method
+      * len()
+      * index()
+      * slicing method
+
+### Lecture 11 <i>(Sikander Nawaz)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/418559850938536)
+  * Methods of Srting
+    * upper()
+    * lower()
+    * capitalize()
+    * title()
+    * lstrip()
+    * rstrip()
+    * strip()
+    * replace()
+    * find()
+    * startswith()
+    * endswith()
+    * isdigit()
+    * isalpha()
+    * isalnum()

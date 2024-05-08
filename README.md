@@ -93,3 +93,20 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * isdigit()
     * isalpha()
     * isalnum()
+
+### Lecture 12 <i>(Sikander Nawaz)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/843085670975206)
+  * List/Array
+  * Methods of List
+    * len()
+    * index()
+    * append()
+    * insert()
+    * extend()
+    * pop()
+    * remove()
+    * clear()
+    * copy()
+    * count()
+    * reverse()
+    * sort()

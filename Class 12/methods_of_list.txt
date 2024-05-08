@@ -1,0 +1,17 @@
+List:
+       fruits = ["mango", "orange", 75, True]
+
+Methods/Helper Function of List.
+
+     1. length of a list                            		  	     |	   -> len()
+     2. Returns the index of the first element with the specified value    |    -> index()
+     3. Adds an element at the end of the list                    	     |	   -> append()
+     4. Adds an element at the specified position                 	     |	   -> insert()
+     5. Removes the element at the specified position             	     |	   -> pop()
+     6. Removes the first item with the specified value                    |    -> remove()
+     7. Removes all the elements from the list                             |    -> clear()
+     8. Returns a copy of the list                          		     |	   -> copy() 
+     9. Returns the number of elements with the specified value            |    -> count()
+    10. Reverses the order of the list                                     |    -> reverse()
+    11. Sorts the list                    				     |	   -> sort()
+    12. concatenation of two arrays                                        |    -> extend()

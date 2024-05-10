@@ -110,3 +110,12 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * count()
     * reverse()
     * sort()
+
+### Lecture 13 <i>(Sir Adeel, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/244567812053137)
+  * Tuples
+    * Access Tuples
+    * Update Tuples
+    * Unpack Tuples
+    * Join Tuples
+    * Methods of Tuples

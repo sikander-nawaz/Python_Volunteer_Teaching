@@ -111,6 +111,15 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * reverse()
     * sort()
 
+<!-- ### Lecture 13 <i>(Sikander Nawaz, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/244567812053137)
+  * Tuples
+    * Access Tuples
+    * Update Tuples
+    * Unpack Tuples
+    * Join Tuples
+    * Methods of Tuples -->
+
 ### Lecture 13 <i>(Sir Adeel, Participent)</i>
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/244567812053137)
   * Tuples
@@ -119,3 +128,14 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * Unpack Tuples
     * Join Tuples
     * Methods of Tuples
+
+### Lecture 14 <i>(Sikander Nawaz, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/909017944309552)
+  * Dictionary
+    * Access Items
+    * Change Items
+    * Add Items
+    * Remove Items
+    * Loop Dictionaries
+    * Copy Dictionaries
+    * Nested Dictionaries

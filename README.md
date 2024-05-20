@@ -141,3 +141,18 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * Loop Dictionaries
     * Copy Dictionaries
     * Nested Dictionaries
+
+### Lecture 15 <i>(Sir Asad, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=476920554683550)
+  * Methods of Dictionary
+    * clear()
+    * copy()
+    * fromkeys()
+    * get()
+    * items()
+    * keys()
+    * pop()
+    * popitem()
+    * setdefult()
+    * update()
+    * values()

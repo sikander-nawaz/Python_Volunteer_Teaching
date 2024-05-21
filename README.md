@@ -156,3 +156,17 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
     * setdefult()
     * update()
     * values()
+
+### Lecture 16 <i>(Sir Asad, Participent)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1510585402912224)
+  * What are functions and Why functions ?
+  * Syntax of function
+  * Functions with input
+  * Parameters and arguments
+  * Positional and keyword arguments
+
+### Lecture 17 <i>(Sir Adeel)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1638271086938087)
+  * General Discussion
+  * Introduction of Object Oriented Programming (OOP)
+    

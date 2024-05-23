@@ -169,11 +169,20 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
 - **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1638271086938087)
   * General Discussion
   * Introduction of Object Oriented Programming (OOP)
-
-### Lecture 18 <i>(Sir Adeel)</i>
-- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1154807628902357/)
   * Introduction of Abstraction
   * Introduction of Encapsulation
   * Introduction of Inheritance
   * Introduction of Polymorphism
+
+### Lecture 18 <i>(Sir Adeel)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1154807628902357/)
+  * Revision
+  * Classes and Objects
+
+### Lecture 19 <i>(Sir Adeel)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/794134219105454)
+  * Revision
+  * Abstraction
+  * Encapsulation
+  * Polymorphism
     

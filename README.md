@@ -184,5 +184,9 @@ Sharing experience on [iCodeGuru](https://icodeguru.weebly.com/) - where student
   * Revision
   * Abstraction
   * Encapsulation
+
+### Lecture 19 <i>(Sir Adeel)</i>
+- **Video Link:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/794134219105454)
+  * Revision
   * Polymorphism
     
